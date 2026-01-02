@@ -1,5 +1,7 @@
 # Hotel Booking (Client)
 
+<img src="https://res.cloudinary.com/dhdcmkuhx/image/upload/v1767368126/Screenshot_2026-01-02_at_16.10.12_nonuae.png" width="100%" alt="Hotel Booking" >
+
 A modern, responsive hotel booking client application built with React, Vite, Tailwind CSS, and Clerk for authentication. Users can discover hotels and rooms, view details, and manage their bookings. Owners have an admin area to add and manage rooms.
 
 Live deploys can be handled via GitHub Pages using the provided scripts.
